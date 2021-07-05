@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn.mec.kris-demo-9e1d3b3f
+title: "Musik programmieren mit dem Calliope mini            "
+hidden: true
+metadata:
+  title: Musik programmieren mit dem calliope mini
+  ms.date: 07/04/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+  ms.custom:
+    - Student centered learning
+  description: Mit dem Unterrichtsmaterial "Musik programmieren mit dem Calliope
+    mini" tauchen die Schülerinnen und Schüler in die faszinierende Welt des
+    Programmierens ein, prägen über das Entwickeln von Melodien und Liedern
+    Kompetenzen aus, die besonders mit Programmieren gefördert werden.
+abstract: |
+  In diesem Modul wird Folgendes thematisiert:  
+   - learning objectives 1
+summary: Mit dem Unterrichtsmaterial "Musik programmieren mit dem Calliope mini"
+  tauchen die Schülerinnen und Schüler in die faszinierende Welt des
+  Programmierens ein, prägen über das Entwickeln von Melodien und Liedern
+  Kompetenzen aus, die besonders mit Programmieren gefördert werden.
+prerequisites: |
+  Keine
+iconUrl: /learn/achievements/kris-demo-9e1d3b3f.png
+levels:
+  - beginner
+products:
+  - office-onedrive
+  - power-bi
+roles:
+  - k-12-educator
+  - school-leader
+units:
+  - learn.mec.kris-demo-9e1d3b3f.introduction
+  - learn.mec.kris-demo-9e1d3b3f.kris-unique-1
+  - learn.mec.kris-demo-9e1d3b3f.kris-unique-2
+  - learn.mec.kris-demo-9e1d3b3f.kris-unique-3
+  - learn.mec.kris-demo-9e1d3b3f.kris-unique-4
+  - learn.mec.kris-demo-9e1d3b3f.knowledge-check
+  - learn.mec.kris-demo-9e1d3b3f.summary
+badge:
+  uid: learn.mec.kris-demo-9e1d3b3f.badge

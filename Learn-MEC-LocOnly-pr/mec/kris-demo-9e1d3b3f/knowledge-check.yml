@@ -1,0 +1,52 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kris-demo-9e1d3b3f.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: Review on what you've learned
+  ms.date: 07/04/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+durationInMinutes: 1
+quiz:
+  title: Knowledge check
+  questions:
+    - content: Mit welcher der folgenden Apps lässt sich der Calliope mini bequem
+        programmieren?
+      choices:
+        - content: Mit Windows Classroom-Coding
+          isCorrect: false
+          explanation: "1"
+        - content: Mit MakeCode von Microsoft
+          isCorrect: true
+          explanation: "2"
+        - content: Mit Calliope Transfer
+          isCorrect: false
+          explanation: "3"
+    - content: Wie lassen sich Melodie-Wiederholungen mit dem Calliope mini sinnvoll
+        umsetzen?
+      choices:
+        - content: Die Melodie sollte einfach mehrmals hintereinander gesetzt werden
+          isCorrect: false
+          explanation: "4"
+        - content: Mit dem Wiederhole-X-Mal-Befehl
+          isCorrect: false
+          explanation: "5"
+        - content: Mittels Schleifen
+          isCorrect: true
+          explanation: "6"
+    - content: Wie „lernt“ der Calliope mini ein neues Lied?
+      choices:
+        - content: Durch das Einspielen mit einem Midi-Keyboard via Bluetooth
+          isCorrect: false
+          explanation: "7"
+        - content: Das in MakeCode erstellte Lied muss als .hex-Datei via USB auf den
+            Calliope mini kopiert werden
+          isCorrect: true
+          explanation: "8"
+        - content: Der Calliope mini lernt ein neues Lied automatisch durch Vorspielen auf
+            dem Klavier
+          isCorrect: false
+          explanation: "9"

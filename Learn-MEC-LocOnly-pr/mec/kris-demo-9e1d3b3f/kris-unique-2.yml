@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.kris-demo-9e1d3b3f.kris-unique-2
+title: Einordnung in den Lehrplan
+metadata:
+  title: Einordnung in den lehrplan
+  description: Einordnung in den Lehrplan
+  ms.date: 07/04/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+durationInMinutes: 1
+content: "[!include[](includes/kris-unique-2.md)]"
